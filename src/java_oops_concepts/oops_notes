@@ -1,0 +1,34 @@
+OOPs Concepts:
+-> Main aim is to implement real-world entities
+-> OOPs is methodology or paradigm to design program using classes and objects
+-> It simplifies software development and maintenance
+
+Object:
+-> It is instance of a class
+-> real-world entity/ runtime entity/ entity with state and behavior
+-> It is physical as well as logical entity
+-> has 3 characteristics - state, behavior, identity
+
+Class:
+-> It is group of objects which have common properties
+-> It is template/ blueprint from which objects are created
+-> It is logical entity
+-> It contains Fields, Methods, Constructors, Blocks, Nested class and interface
+
+Instance variable:
+-> created inside class and outside method
+-> doesn't get memory at compile time but at runtime when object or instance is created
+
+Method:
+-> It is function where behavior of object is exposed
+-> Advantage is code reusability and optimization
+
+'new' Keyword:
+-> used to allocate memory at runtime
+-> all objects get memory in heap area
+
+3 ways to initialise object:
+1. by reference variable
+2. by method
+3. by constructor
+

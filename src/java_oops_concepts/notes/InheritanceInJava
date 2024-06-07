@@ -1,0 +1,35 @@
+Inheritance:
+-> Mechanism in which one object acquires all properties and behaviors of a parent object
+-> Idea behind is that we can create new classes built upon existing classes
+-> represents IS-A relationship also called parent-child relationship
+
+Why Inheritance?
+1. for method overriding (so runtime polymorphism can be achieved)
+2. for code reusability
+
+Terms used:
+1. class
+2. subclass/ child class / derived class/ extended class
+3. super class/ parent class/ base class
+4. reusability
+
+'extends' keyword:
+-> it indicates that new class is made that derives from existing class
+-> extends - to increase the functionality
+
+Types of Inheritance:
+1. single
+2. multi-level
+3. hierarchical
+4. multiple
+5. hybrid
+
+Single Inheritance:
+-> when a class inherits another class
+
+Multilevel Inheritance:
+-> when there is a chain of inheritance
+
+Hierarchical Inheritance:
+-> when two or more classes inherits a single class
+

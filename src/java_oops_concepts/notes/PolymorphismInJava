@@ -1,0 +1,39 @@
+Polymorphism - Method overloading:
+-> if a class has multiple methods having same name but different in parameters
+
+Advantage of method overloading:
+-> increases readability of the program
+
+Different ways to overload the method:
+1. by changing number of arguments
+2. by changing the data type
+
+NOTE:- In Java, Method overloading is not possible by changing the return type of method only
+
+NOTE:- One type is not de-promoted implicitly, eg. double can't be depromoted to any type implicitly
+
+Polymorphism - Method overriding:
+-> if subclass has same method as declared in parent class
+
+Usage of method overriding:
+-> used to provide specific implementation of a method which is already provided by its superclass
+-> used for runtime polymorphism
+
+Rules for method overriding:
+-> method must have same name as in parent class
+-> method must have same parameter as in parent class
+-> there must be IS-A relationship
+
+Overriding static method?
+-> static method can't be overridden
+-> static method is bound with class whereas instance method is bound with object
+-> static belongs to class area and instance belongs to heap area
+
+Polymorphism - 'super' keyword:
+-> It is a reference variable which is used to refer immediate parent class object
+-> when we create instance of subclass, implicitly parent class instance is created which is referred by super reference variable
+
+Usage of 'super' keyword:
+-> used to refer immediate parent class instance variable
+-> used to invoke immediate parent class method
+-> used to invoke immediate parent class constructor

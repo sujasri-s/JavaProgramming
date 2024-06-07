@@ -1,0 +1,10 @@
+Aggregation:
+-> if a class have an entity reference
+-> It represents HAS-A relationship
+
+Why Aggregation?
+-> code reusability
+
+When to use Aggregation?
+-> when there is no IS-A relationship
+

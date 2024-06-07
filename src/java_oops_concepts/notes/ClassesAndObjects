@@ -32,3 +32,9 @@ Method:
 2. by method
 3. by constructor
 
+Different ways to create object:
+1. by 'new' keyword
+2. by newInstance() method
+3. by clone() method
+4. by deserialization
+5. by factory method

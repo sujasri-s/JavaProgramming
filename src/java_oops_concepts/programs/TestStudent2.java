@@ -1,4 +1,4 @@
-package java_oops_concepts;
+package java_oops_concepts.programs;
 
 //Example - Initializing object through reference
 public class TestStudent2 {

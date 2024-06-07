@@ -1,0 +1,37 @@
+Constructors:
+-> It is block of code similar to method
+-> at the time of calling constructor, memory for object is allocated in memory
+-> special type of method used to initialize object
+-> java compiler provides default constructor by default
+
+Types of constructors:
+1. default/ no-arg constructor
+2. parameterized constructor
+
+Rules for creating java constructor:
+-> constructor name must be same as its class name
+-> must have no explicit return type
+-> can't be abstract, static, final, synchronized
+
+Default constructor:
+-> doesn't have any parameter
+-> purpose is to provide default values to object like 0,null etc depending on the type
+
+Parameterized constructor:
+-> used to provide different values to distinct objects
+
+Constructor overloading:
+-> It is technique of having more than one constructor with different parameter lists
+-> each constructor performs different task
+
+this keyword:
+-> 'this' is reference variable that refers to current object
+
+Usage of 'this' keyword:
+1. used to refer current class instance variable
+2. used to invoke current class method (implicitly)
+3. used to invoke current class constructor
+4. can be passed as argument in method call
+5. can be passed as argument in constructor call
+6. used to return current class instance from method
+

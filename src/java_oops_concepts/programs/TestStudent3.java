@@ -1,4 +1,4 @@
-package java_oops_concepts;
+package java_oops_concepts.programs;
 
 public class TestStudent3 {
     public static void main(String[] args) {

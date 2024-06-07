@@ -1,4 +1,4 @@
-package java_oops_concepts;
+package java_oops_concepts.programs;
 
 public class Student2 {
     int rollno;

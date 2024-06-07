@@ -1,6 +1,6 @@
-package java_oops_concepts;
+package java_oops_concepts.programs;
 
-//Example - Initializing object through method
+// Example - Initializing object through method
 public class TestStudent4 {
     public static void main(String[] args) {
         Student2 s5 = new Student2();

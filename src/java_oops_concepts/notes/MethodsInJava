@@ -1,0 +1,46 @@
+Method:
+-> It is collection of instructions that performs a specific task
+-> It provides reusability of code
+
+Method declaration:
+1. access specifier - public/ private/ protected/ default
+2. return type
+3. method name
+4. parameter list
+5. method body
+(1,2,3,4 - method header and 3,4 - method signature)
+
+Types of Method:
+1. predefined method
+2. user-defined method
+
+Static method:
+-> method that belongs to class rather than instance of class
+-> main advantage is that we can call it without creating object
+-> It is invoked by using class name
+
+Instance method:
+-> It is non-static method defined in the class
+-> It is invoked by using instance of class
+-> 2 types of Instance method - accessor and mutator
+
+Accessor method:
+-> Methods that reads the instance variables
+-> It is prefixed with word 'get'
+-> also called getters
+-> returns value of private field
+
+Mutator method:
+-> Methods that reads the instance variables and also modify the values
+-> It is prefixed with word 'set'
+-> also called setters/ modifiers
+-> doesn't return anything
+-> used to set value of private field
+
+Abstract method:
+-> This method doesn't have method body i.e., without implementation
+-> always declared in abstract class
+
+Factory method:
+-> Method that returns object to class to which it belongs
+-> all static methods are factory methods
